@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+button {
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #9bacc4;
+    transition-duration: 100ms;
+}
